@@ -1,1 +1,2 @@
-This is a js PRoject
+This is a js Project
+by maluma and saanp
